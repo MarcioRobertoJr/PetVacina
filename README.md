@@ -71,15 +71,15 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/CLB
 
 | **Login** | **Registro de Usuário** |
 |:---------:|:------------:|
-|  |  |
+| ![login](imagens/tela1.png) | ![Registro de Usuario](imagens/Tela2.png) |
 
 | **Cadastro de Pet** | **Tela do Usuário** |
 |:------------------------:|:------------------------:|
-|  |  |
+| ![Cadastro de Pet](imagens/Tela3.png) | ![Tela do Usuário](imagens/tela4.png) |
 
 | **Registrar Vacina** | **Exportar Dados** |
 |:------------------------:|:------------------------:|
-|  |  |
+| ![Registrar Vacina](imagens/tela5.png) | ![Exportar Dados](imagens/tela6.png) |
 
 
 ## Criador
