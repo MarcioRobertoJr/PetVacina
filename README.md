@@ -57,6 +57,7 @@ Durante o desenvolvimento foram utilizados conceitos como:
 
 ## **Diagrama de Casos de Uso**
 
+![Diagrama de Sequencia](imagens/Diagrama%20de%20Caso%20de%20Uso.jpeg)
 
 ## **Diagrama de Sequencia**
 
