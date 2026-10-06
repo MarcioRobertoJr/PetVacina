@@ -77,9 +77,9 @@ Protótipo navegável: [Clique para ver no Figma](https://www.figma.com/make/CLB
 |:------------------------:|:------------------------:|
 |  |  |
 
-| **Cadastro de Vacinas** |
-|:----------------------------:|
-|  |
+| **Registrar Vacina** | **Exportar Dados** |
+|:------------------------:|:------------------------:|
+|  |  |
 
 
 ## Criador
