@@ -60,6 +60,7 @@ Durante o desenvolvimento foram utilizados conceitos como:
 
 ## **Diagrama de Sequencia**
 
+![Diagrama de Sequencia](imagens/Diagrama%20de%20Sequencia.jpeg)
 
 ## Interface
 
